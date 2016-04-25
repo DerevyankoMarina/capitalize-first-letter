@@ -1,0 +1,15 @@
+{
+  "name": "capitalize-first-letter",
+  "version": "1.0.0",
+  "description": "The module capitalizes first letter every word",
+  "main": "capitalize-first-letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerevyankoMarina/capitalize-first-letter.git"
+  },
+  "author": "Maryna Derevianko",
+  "license": "ISC"
+}
